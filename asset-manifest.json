@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b363f44c.chunk.css",
-    "main.js": "/static/js/main.e86e2454.chunk.js",
-    "main.js.map": "/static/js/main.e86e2454.chunk.js.map",
+    "main.js": "/static/js/main.ba138bbd.chunk.js",
+    "main.js.map": "/static/js/main.ba138bbd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41963915.js",
     "runtime-main.js.map": "/static/js/runtime-main.41963915.js.map",
     "static/js/2.5502928e.chunk.js": "/static/js/2.5502928e.chunk.js",
@@ -14,12 +14,12 @@
     "static/js/2.5502928e.chunk.js.LICENSE.txt": "/static/js/2.5502928e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Menlo-Regular.02bb0174.woff",
     "static/media/portrait.91519d1d.jpg": "/static/media/portrait.91519d1d.jpg",
-    "static/media/resume.e30eada7.pdf": "/static/media/resume.e30eada7.pdf"
+    "static/media/resume.876c3dff.pdf": "/static/media/resume.876c3dff.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.41963915.js",
     "static/js/2.5502928e.chunk.js",
     "static/css/main.b363f44c.chunk.css",
-    "static/js/main.e86e2454.chunk.js"
+    "static/js/main.ba138bbd.chunk.js"
   ]
 }
