@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f39da4b.chunk.css",
+    "main.css": "/static/css/main.2e5a98da.chunk.css",
     "main.js": "/static/js/main.0a36d3fd.chunk.js",
     "main.js.map": "/static/js/main.0a36d3fd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41963915.js",
@@ -10,7 +10,7 @@
     "static/js/3.2a4cb5e0.chunk.js": "/static/js/3.2a4cb5e0.chunk.js",
     "static/js/3.2a4cb5e0.chunk.js.map": "/static/js/3.2a4cb5e0.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5f39da4b.chunk.css.map": "/static/css/main.5f39da4b.chunk.css.map",
+    "static/css/main.2e5a98da.chunk.css.map": "/static/css/main.2e5a98da.chunk.css.map",
     "static/js/2.279d1c4c.chunk.js.LICENSE.txt": "/static/js/2.279d1c4c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Menlo-Regular.02bb0174.woff",
     "static/media/portrait.91519d1d.jpg": "/static/media/portrait.91519d1d.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.41963915.js",
     "static/js/2.279d1c4c.chunk.js",
-    "static/css/main.5f39da4b.chunk.css",
+    "static/css/main.2e5a98da.chunk.css",
     "static/js/main.0a36d3fd.chunk.js"
   ]
 }
