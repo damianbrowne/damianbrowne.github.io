@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f384672.chunk.css",
+    "main.js": "/static/js/main.b15ad96f.chunk.js",
+    "main.js.map": "/static/js/main.b15ad96f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.41963915.js",
+    "runtime-main.js.map": "/static/js/runtime-main.41963915.js.map",
+    "static/js/2.279d1c4c.chunk.js": "/static/js/2.279d1c4c.chunk.js",
+    "static/js/2.279d1c4c.chunk.js.map": "/static/js/2.279d1c4c.chunk.js.map",
+    "static/js/3.2a4cb5e0.chunk.js": "/static/js/3.2a4cb5e0.chunk.js",
+    "static/js/3.2a4cb5e0.chunk.js.map": "/static/js/3.2a4cb5e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3f384672.chunk.css.map": "/static/css/main.3f384672.chunk.css.map",
+    "static/js/2.279d1c4c.chunk.js.LICENSE.txt": "/static/js/2.279d1c4c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Menlo-Regular.02bb0174.woff",
+    "static/media/portrait.91519d1d.jpg": "/static/media/portrait.91519d1d.jpg",
+    "static/media/resume.e30eada7.pdf": "/static/media/resume.e30eada7.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41963915.js",
+    "static/js/2.279d1c4c.chunk.js",
+    "static/css/main.3f384672.chunk.css",
+    "static/js/main.b15ad96f.chunk.js"
+  ]
+}
